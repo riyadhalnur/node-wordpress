@@ -8,7 +8,7 @@ Requires WordPress 3.4 or newer (uses the [WordPress XML-RPC API](http://codex.w
 
 ## Changelog  
 
-### 0.1.3.1  
+### 0.1.4  
 1. Added support for Users API (getAuthors only for now) calls
 
 ## License
