@@ -2,7 +2,7 @@
   "author": "Scott González <scott.gonzalez@gmail.com> (http://scottgonzalez.com)",
   "name": "wordpress",
   "description": "A client for working with WordPress.",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "homepage": "https://github.com/scottgonzalez/node-wordpress",
   "repository": {
     "type": "git",
@@ -15,7 +15,9 @@
     "xmlrpc": "1.0.1"
   },
   "devDependencies": {
-    "grunt": "0.3.x"
+    "grunt": "0.3.x",
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
   },
   "main": "lib/wordpress.js"
 }
