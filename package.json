@@ -12,6 +12,7 @@
     "node": "*"
   },
   "dependencies": {
+    "url": "^0.10.1",
     "xmlrpc": "1.0.1"
   },
   "devDependencies": {
