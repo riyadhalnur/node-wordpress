@@ -36,12 +36,5 @@ describe('Wordpressorg', function () {
       };
       func.should.throw();
     });
-
-    it('should throw error without callback function', function () {
-      var func = function () {
-        blog.getYoastAnalysis(1);
-      };
-      func.should.throw();
-    });
   });
 });
